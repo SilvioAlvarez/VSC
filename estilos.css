@@ -1,0 +1,57 @@
+.color-fondo {
+    background-color: #660099;
+    
+}
+
+.color-letra {
+    color: beige;
+    font-size: 25px;
+    text-decoration: none;
+}
+.color-letra-argentina {
+    color: beige;
+    font-size: 15px;
+    text-decoration: none;
+   
+}
+.color-letra-mundo {
+    color: beige;
+    font-size: 15px;
+    text-decoration: none;
+}
+.color-letra-deportes {
+    color: beige;
+    font-size: 15px;
+    text-decoration: none;
+}
+.color-letra-espectaculos {
+    color: beige;
+    font-size: 15px;
+    text-decoration: none;
+}
+.texto-noticia{
+  font-size: 14px;
+
+}
+.texto-titulo{
+  font-size: 25px;
+}
+h4{
+    font-size: 16px
+  }
+  .texto-noticia-chica{
+    font-size: 12px;
+  
+  }
+
+  .btn{
+    background-color: #1577d3;
+    color: white;
+    font-size: 12px;
+    padding: 1px 8px;
+    text-decoration: none;
+  }
+.texto-justificado{
+  font-size: 20px;
+
+}
